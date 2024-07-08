@@ -1,5 +1,18 @@
-# Food-Villa
-Your site is live at https://vishalyd05.github.io/FoodVilla_Project/
-A Food Delivery App created using ReactJS
+Food Villa is a dynamic food-ordering web application showcasing the use of technologies like ReactJS. In this project, I have been able to use different features together and gain a greater understanding of them.
 
-Fetched Data from Swiggy APIs to populate  restaurant cards.
+Tech Stack
+Front-End : ReactJS, ReduxJS, React Router, TailwindCSS
+
+Features
+Responsive Web Application
+Search functionality
+Routing implemented
+RESTful API integration
+Custom-made Hooks used
+Tailwind CSS for CSS
+
+API Reference
+Swiggy
+
+Links
+Project Link: https://github.com/vishalyd05/FoodVilla_Project
