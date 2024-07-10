@@ -14,6 +14,8 @@ Front-End : ReactJS, ReduxJS, React Router, TailwindCSS
 
  **Project Link**: [https://github.com/vishalyd05/FoodVilla_Project](https://github.com/vishalyd05/FoodVilla_Project)
 
+ **Deploy Link**:  [http://foodvilla-vishal.netlify.app](http://foodvilla-vishal.netlify.app)
+
   
 ## Project Image
 
